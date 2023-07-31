@@ -5,7 +5,7 @@
 <br>
 
  <div align="center">
-    <img alt="License" src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg">
+    <img alt="License" src="https://img.shields.io/badge/License-CC_BY_4.0-c3e7ff?style=flat-square">
     <img alt="Last commit" src="https://img.shields.io/github/last-commit/SuhasDissa/MellowMusic?color=c3e7ff&style=flat-square">
     <img alt="Repo size" src="https://img.shields.io/github/repo-size/SuhasDissa/MellowMusic?color=c3e7ff&style=flat-square">
     <img alt="Stars" src="https://img.shields.io/github/stars/SuhasDissa/MellowMusic?color=c3e7ff&style=flat-square">
@@ -21,4 +21,3 @@ This work is licensed under a
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
