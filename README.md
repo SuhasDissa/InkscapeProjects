@@ -1,5 +1,4 @@
 <div align="center">
-  <img width="150" src="/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="App icon">
   <h1 align="center">Inkscape Projects</h1>
   An open source repo where I upload vector graphics created by myself.
 </div>
